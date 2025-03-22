@@ -27,7 +27,8 @@
 #include <wchar.h>
 #include <wctype.h>
 
-int main() {
-    printf("Hello, World!\n");
+int main(int argc, char *argv[]) {
+    printf("Hello world!\n");
+
     return 0;
 }
